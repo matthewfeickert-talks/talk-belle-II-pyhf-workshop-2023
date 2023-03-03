@@ -105,6 +105,7 @@ $ git checkout origin/main -b feat/my-feature-branch
 $ python3 -m venv .venv && . .venv/bin/activate
 $ python -m pip install --upgrade pip setuptools wheel
 $ python -m pip install --upgrade -e '.[develop]'
+$ nox --list
 $ nox --session tests --python 3.10  # 3.10 as example
 ```
 
