@@ -104,7 +104,8 @@ $ python3 -m venv .venv && . .venv/bin/activate
 $ git clone git@github.com:<your fork>/pyhf && cd pyhf
 $ git checkout origin/main -b feat/my-feature-branch
 $ python -m pip install --upgrade pip setuptools wheel
-$ python -m pip install --upgrade -e '.[develop]'
+$ python -m pip install --upgrade -e '.[all]'
+$ python -m pip install nox
 $ nox --list
 $ nox --session tests --python 3.10  # 3.10 as example
 ```
