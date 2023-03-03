@@ -40,6 +40,20 @@ March 3rd, 2023
 ]
 
 ---
+# pyhf User Guide / Tutorial
+
+.kol-2-5.huge[
+- More in depth walkthrough of the statistical structure of the models and the pyhf APIs
+   - All code runnable as user guide built with Jupyter Book!
+- .bold[Contribution ideas]:
+   - Work through it, open up GitHub Issues on .bold[what else you'd like to see], what .bold[needs more clarification]
+]
+.kol-3-5[
+.center.width-100[[![pyhf-user-guide](figures/pyhf-user-guide.png)](https://pyhf.github.io/pyhf-tutorial/)]
+]
+
+
+---
 # Summary
 
 .huge[
