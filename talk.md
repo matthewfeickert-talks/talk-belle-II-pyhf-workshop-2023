@@ -102,6 +102,7 @@ March 3rd, 2023
 $ git clone git@github.com:scikit-hep/pyhf && cd pyhf
 $ python3 -m venv .venv && . .venv/bin/activate
 $ python -m pip install --upgrade pip setuptools wheel
+$ git checkout origin/main -b feat/my-feature-branch
 $ python -m pip install --upgrade -e .
 $ python -m pip install nox
 $ nox --session tests --python 3.10
