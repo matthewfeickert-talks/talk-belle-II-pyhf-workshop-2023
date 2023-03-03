@@ -95,7 +95,7 @@ March 3rd, 2023
 ---
 # Contributing a PR
 
-Super quick start
+.center.huge.bold[Super quick start]
 
 .huge[
 ```
