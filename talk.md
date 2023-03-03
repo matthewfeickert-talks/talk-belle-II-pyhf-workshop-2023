@@ -106,7 +106,6 @@ $ git checkout origin/main -b feat/my-feature-branch
 $ python -m pip install --upgrade pip setuptools wheel
 $ python -m pip install --upgrade -e '.[all]'
 $ python -m pip install nox
-$ nox --list
 $ nox --session tests --python 3.10  # 3.10 as example
 ```
 
