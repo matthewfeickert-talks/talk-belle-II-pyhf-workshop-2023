@@ -1,7 +1,7 @@
 class: middle, center, title-slide
 count: false
 
-# How to contribute to pyhf development
+# .large[How to contribute to pyhf development]
 
 .huge.blue[Matthew Feickert]<br>
 .large[(University of Wisconsin-Madison)]
