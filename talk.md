@@ -23,7 +23,7 @@ March 3rd, 2023
    - Questions
    - Documentation improvement
    - Contributing to roadmap discussions
-* Contributions of all kinds are welcome and additional maintainers from experiments other than ATLAS would be of interest (👀)
+* Contributions of all kinds are welcome and additional maintainers from experiments other than ATLAS would be of interest 👀
 ]
 
 ---
@@ -117,9 +117,9 @@ $ nox --session tests --python 3.10  # 3.10 as example
 # Summary
 
 .large[
-- Your contributions are welcome (🚀)
-- Everything is open and public
-- Hope that you join us
+- Your contributions are welcome 🎉
+- Everything is open and public 🌐
+- Hope that you join us 🚀
 ]
 
 .grid[
