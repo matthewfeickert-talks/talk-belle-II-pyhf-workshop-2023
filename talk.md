@@ -8,7 +8,7 @@ count: false
 <br>
 [matthew.feickert@cern.ch](mailto:matthew.feickert@cern.ch)
 
-[Belle II pyhf workshop 2023](https://indico.belle2.org/event/8470/contributions/55871/)
+[Belle II pyhf Workshop 2023](https://indico.belle2.org/event/8470/contributions/55871/)
 <br>
 March 3rd, 2023
 
