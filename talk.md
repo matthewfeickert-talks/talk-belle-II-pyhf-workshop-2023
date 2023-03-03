@@ -1,7 +1,7 @@
 class: middle, center, title-slide
 count: false
 
-# How to get involved in pyhf development
+# How to contribute to pyhf development
 
 .huge.blue[Matthew Feickert]<br>
 .large[(University of Wisconsin-Madison)]
@@ -18,12 +18,12 @@ March 3rd, 2023
 # Introduction and Overview
 
 .huge[
-- This work is really all thanks to BNL team
-      - Doug Benjamin
-      - Ofer Rind
-      - Chris Hollowell
-- Ongoing process, but today just showing the first (unoptimized) steps that came together pleasantly quickly
-- Today showing examples of running at BNL's SDCC Jupyter instance
+* Most of this talk is just walking you through the [GitHub repo](https://github.com/scikit-hep/pyhf) and the [developer webpage](https://scikit-hep.org/pyhf/development.html)
+* Want to stress that .bold[contributions do not have to be code]!
+   - Questions
+   - Documentation improvement
+   - Contributing to roadmap discussions
+* Contributions of all kinds are welcome and additional maintainers from experiments other than ATLAS would be of interest (👀)
 ]
 
 ---
