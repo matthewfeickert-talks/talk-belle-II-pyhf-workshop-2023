@@ -68,7 +68,7 @@ March 3rd, 2023
 ]
 
 ---
-# pyhf User Guide / Tutorial
+# User Guide / Tutorial
 
 .kol-2-5.huge[
 - More in depth walkthrough of the statistical structure of the models and the pyhf APIs
@@ -81,14 +81,40 @@ March 3rd, 2023
 ]
 
 ---
+# Contributing a PR
+
+.kol-2-5.huge[
+- First .bold[make sure there is an Issue] that describes the work that needs to be done (make it if it doesn't exist)
+- Next .bold[checkout the [`CONTRIBUTING.md`](https://github.com/scikit-hep/pyhf/blob/main/CONTRIBUTING.md)]
+- Then .bold[follow the [developer documentation](https://scikit-hep.org/pyhf/development.html)]
+]
+.kol-3-5[
+.center.width-100[[![developer-docs](figures/developer-docs.png)](https://scikit-hep.org/pyhf/development.html)]
+]
+
+---
+# Contributing a PR
+
+Super quick start
+
+.huge[
+```
+$ git clone git@github.com:scikit-hep/pyhf && cd pyhf
+$ python3 -m venv .venv && . .venv/bin/activate
+$ python -m pip install --upgrade pip setuptools wheel
+$ python -m pip install --upgrade -e .
+$ python -m pip install nox
+$ nox --session tests --python 3.10
+```
+]
+
+---
 # Summary
 
 .huge[
-- Have a runnable environment for AGC at BNL AF (🚀)
-- BNL team is working to make drop-in with custom images well specified and easy
-- Things work, but to understand how scaling is working will need to improve the monitoring story
-   - Currently don't have Dask dashboards detecting the Dask cluster
-- Also need to try other AGC analyses and expand / modify environment
+- Your contributions are welcome (🚀)
+- Many ways to contribute
+- Everything is open and public
 ]
 
 ---
