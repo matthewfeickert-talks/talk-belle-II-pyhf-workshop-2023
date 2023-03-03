@@ -100,9 +100,9 @@ March 3rd, 2023
 .huge[
 ```
 # Step 0: Fork the repo
+$ python3 -m venv .venv && . .venv/bin/activate
 $ git clone git@github.com:<your fork>/pyhf && cd pyhf
 $ git checkout origin/main -b feat/my-feature-branch
-$ python3 -m venv .venv && . .venv/bin/activate
 $ python -m pip install --upgrade pip setuptools wheel
 $ python -m pip install --upgrade -e '.[develop]'
 $ nox --list
