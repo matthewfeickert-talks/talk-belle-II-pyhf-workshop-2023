@@ -18,7 +18,7 @@ March 3rd, 2023
 # Introduction and Overview
 
 .huge[
-* Most of this talk is just walking you through the [GitHub repo](https://github.com/scikit-hep/pyhf) and the [developer webpage](https://scikit-hep.org/pyhf/development.html)
+* Most of this talk is just walking you through the [GitHub repo](https://github.com/scikit-hep/pyhf) ⭐ and the [developer webpage](https://scikit-hep.org/pyhf/development.html) 📖
 * Want to stress that .bold[contributions do not have to be code]!
    - Questions
    - Documentation improvement
