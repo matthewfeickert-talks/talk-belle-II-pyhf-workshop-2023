@@ -40,18 +40,45 @@ March 3rd, 2023
 ]
 
 ---
+# GitHub Issues
+
+.kol-2-5.huge[
+- Give direct feedback and make requests
+   - Report bugs
+   - Propose new features
+   - Ask for new documentation and examples
+- Feel free to make many of these
+]
+.kol-3-5[
+.center.width-100[[![github-issues](figures/github-issues.png)](https://github.com/scikit-hep/pyhf/issues)]
+]
+
+---
+# GitHub Issues
+
+.kol-2-5.huge[
+- Give direct feedback and make requests
+   - Report bugs
+   - Propose new features
+   - Ask for new documentation and examples
+- Issue templates exist to help guide you
+]
+.kol-3-5[
+.center.width-100[[![issue-template](figures/issue-template.png)](https://github.com/scikit-hep/pyhf/issues)]
+]
+
+---
 # pyhf User Guide / Tutorial
 
 .kol-2-5.huge[
 - More in depth walkthrough of the statistical structure of the models and the pyhf APIs
    - All code runnable as user guide built with Jupyter Book!
 - .bold[Contribution ideas]:
-   - Work through it, open up GitHub Issues on .bold[what else you'd like to see], what .bold[needs more clarification]
+   - Work through it, open up [GitHub Issues](https://github.com/pyhf/pyhf-tutorial/issues) on .bold[what else you'd like to see], what .bold[needs more clarification]
 ]
 .kol-3-5[
 .center.width-100[[![pyhf-user-guide](figures/pyhf-user-guide.png)](https://pyhf.github.io/pyhf-tutorial/)]
 ]
-
 
 ---
 # Summary
