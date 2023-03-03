@@ -27,6 +27,19 @@ March 3rd, 2023
 ]
 
 ---
+# GitHub Discussions
+
+.kol-2-5.huge[
+- Think "Stack Overflow for pyhf specifically"
+- Both asking and answering questions helps a lot!
+   - .bold[Asking]: Helps us understand what isn't clear, what is tricky
+   - .bold[Answering]: Helping out to build community knowledge
+]
+.kol-3-5[
+.center.width-100[[![github-discussions](figures/github-discussions.png)](https://github.com/scikit-hep/pyhf/discussions)]
+]
+
+---
 # Summary
 
 .huge[
