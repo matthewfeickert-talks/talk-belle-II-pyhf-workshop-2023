@@ -116,10 +116,34 @@ $ nox --session tests --python 3.10  # 3.10 as example
 ---
 # Summary
 
-.huge[
+.large[
 - Your contributions are welcome (🚀)
-- Many ways to contribute
 - Everything is open and public
+- Hope that you join us
+]
+
+.grid[
+.kol-1-3.center[
+.circle.width-80[![Lukas](figures/collaborators/heinrich.png)]
+
+[Lukas Heinrich](https://github.com/lukasheinrich)
+
+Technical University of Munich
+]
+.kol-1-3.center[
+.circle.width-80[![Matthew](https://avatars2.githubusercontent.com/u/5142394)]
+
+[Matthew Feickert](https://www.matthewfeickert.com/)
+
+University of Wisconsin-Madison
+]
+.kol-1-3.center[
+.circle.width-75[![Giordon](figures/collaborators/stark.jpg)]
+
+[Giordon Stark](https://github.com/kratsg)
+
+University of California Santa Cruz SCIPP
+]
 ]
 
 ---
